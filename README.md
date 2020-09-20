@@ -4,7 +4,7 @@ Here, we will try to use the data provided by accelerometer and gyroscope of Sma
 
 ## Plan of Action
 * We will apply classical Machine Learning models on these 561 sized domain expert engineered features.
-* data prepocessing 
+* data processing 
 * Normaliation
 * comaprision of models
 
